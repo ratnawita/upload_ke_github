@@ -1,0 +1,2 @@
+ini adalah file ke 1
+untuk di push ke git
